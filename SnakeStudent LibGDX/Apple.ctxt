@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\r\n\ Created\ by\ mengebrits\ on\ 6/7/2017.\r\n
+comment1.params=
+comment1.target=Apple()
+comment2.params=
+comment2.target=void\ first()
+comment3.params=
+comment3.target=void\ spawnApple()
+comment4.params=
+comment4.target=com.badlogic.gdx.math.Rectangle\ getRectangle()
+comment5.params=x
+comment5.target=void\ setX(float)
+comment6.params=y
+comment6.target=void\ setY(float)
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rock\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Rock()
+comment2.params=
+comment2.target=void\ first()
+comment3.params=
+comment3.target=void\ spawnRock()
+comment4.params=
+comment4.target=com.badlogic.gdx.math.Rectangle\ getRectangle()
+comment5.params=x
+comment5.target=void\ setX(float)
+comment6.params=y
+comment6.target=void\ setY(float)
+numComments=7

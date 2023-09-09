@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SnakePart
+comment0.text=\r\n\ Created\ by\ mengebrits\ on\ 6/7/2017.\r\n
+comment1.params=x\ y
+comment1.target=SnakePart(float,\ float)
+comment2.params=
+comment2.target=com.badlogic.gdx.math.Rectangle\ getRectangle()
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=x
+comment5.target=void\ setX(float)
+comment6.params=y
+comment6.target=void\ setY(float)
+numComments=7
